@@ -8,7 +8,7 @@ import javax.swing.JOptionPane;
 
 public class DBConnection {
     private static Connection connection;
-    private static final String URL = "jdbc:mysql://localhost:3306/db_keuangan_sekolah";
+    private static final String URL = ".....";
     private static final String USER = "root"; // Ganti dengan username MySQL Anda
     private static final String PASSWORD = ""; // Ganti dengan password MySQL Anda
 
